@@ -1,7 +1,7 @@
 ### Ola! Sou Heitor Almeida! 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heitorallmeida&count_private=true&theme=merko)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Heitorallmeida&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=merko"/>
 <!--
 **Heitorallmeida/Heitorallmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
